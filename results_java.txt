@@ -1,0 +1,684 @@
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:3:	UnnecessaryImport:	Unused import 'java.util.logging.Level'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockFlamiteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockSarliteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:11:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.RegisterHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:15:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.EntityCreeptile'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:21:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:22:	UnnecessaryImport:	Unused import 'net.minecraft.entity.Entity'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:23:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityList'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:24:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EnumCreatureType'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:25:	UnnecessaryImport:	Unused import 'net.minecraft.init.Items'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:26:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:27:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item.ToolMaterial'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:28:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemStack'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:29:	UnnecessaryImport:	Unused import 'net.minecraft.world.biome.BiomeGenBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:30:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.MinecraftForge'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:32:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.util.EnumHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:34:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.FMLLog'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:42:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.registry.EntityRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/Palaria.java:130:	MethodNamingConventions:	The instance method name 'Init' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockAfnamiteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockAfnamiteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockAfnamiteOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockClariteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockClariteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockClariteOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.items.ItemMod'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.block.state.IBlockState'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.util.BlockPos'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.world.IBlockAccess'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndEndermiteOre.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.world.World'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.items.ItemMod'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.block.state.IBlockState'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.util.BlockPos'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.world.IBlockAccess'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockEndermiteOre.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.world.World'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockFlamiteOre.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockFlamiteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockFlamiteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockFlamiteOre.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.block.state.IBlockState'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockFlamiteOre.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockIlliwonOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockIlliwonOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockIlliwonOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:4:	UnnecessaryImport:	Unnecessary import from the current package 'com.coolgatty.palaria.blocks.BlockFlamiteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:5:	UnnecessaryImport:	Unnecessary import from the current package 'com.coolgatty.palaria.blocks.BlockSarliteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.block.material.Material'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.client.Minecraft'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.client.resources.model.ModelBakery'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.client.resources.model.ModelResourceLocation'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:18:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.util.EnumHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:19:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.registry.GameRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockMod.java:22:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.block.BlockPlanks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:17:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.Side'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:18:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:37:	AvoidDollarSigns:	Avoid using dollar signs in variable/method/class/interface names
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:37:	LocalVariableNamingConventions:	The local variable name 'blockmodplanks$enumtype' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:39:	DefaultLabelNotLastInSwitchStmt:	The default label should be the last label in a switch statement
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:73:	ImplicitSwitchFallThrough:	A switch statement does not contain a break
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:100:	ImplicitSwitchFallThrough:	A switch statement does not contain a break
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:100:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModLog.java:136:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.block.BlockPlanks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:19:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.Side'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:20:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:46:	AvoidDollarSigns:	Avoid using dollar signs in variable/method/class/interface names
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:46:	LocalVariableNamingConventions:	The local variable name 'blockmodplanks$enumtype' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:78:	UnnecessaryModifier:	Unnecessary modifier 'static' on enum 'EnumType': nested enums are implicitly static
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:89:	FormalParameterNamingConventions:	The method parameter name 'p_i46388_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:89:	FormalParameterNamingConventions:	The method parameter name 'p_i46388_4_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:89:	FormalParameterNamingConventions:	The method parameter name 'p_i46388_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:89:	UnnecessaryModifier:	Unnecessary modifier 'private' on constructor 'EnumType(int, String, MapColor)': enum constructors are implicitly private
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:94:	FormalParameterNamingConventions:	The method parameter name 'p_i46389_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:94:	FormalParameterNamingConventions:	The method parameter name 'p_i46389_4_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:94:	FormalParameterNamingConventions:	The method parameter name 'p_i46389_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:94:	FormalParameterNamingConventions:	The method parameter name 'p_i46389_6_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:94:	UnnecessaryModifier:	Unnecessary modifier 'private' on constructor 'EnumType(int, String, String, MapColor)': enum constructors are implicitly private
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:107:	MethodNamingConventions:	The instance method name 'func_181070_c' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:139:	AvoidDollarSigns:	Avoid using dollar signs in variable/method/class/interface names
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:139:	LocalVariableNamingConventions:	The local variable name 'blockmodplanks$enumtype' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModPlanks.java:149:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.metahelp.IMetaBlockName'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemStack'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:33:	FormalParameterNamingConventions:	The method parameter name 'p_apply_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:144:	AvoidDollarSigns:	Avoid using dollar signs in variable/method/class/interface names
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:144:	LocalVariableNamingConventions:	The local variable name 'enumfacing$axis' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:228:	ImplicitSwitchFallThrough:	A switch statement does not contain a break
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockModTorch.java:280:	ImplicitSwitchFallThrough:	A switch statement does not contain a break
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockNeliumOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockNeliumOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockNeliumOre.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockSarliteOre.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockSarliteOre.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockSarliteOre.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockSarliteOre.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.block.state.IBlockState'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/blocks/BlockSarliteOre.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/PalariaFuelHandler.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/PalariaFuelHandler.java:14:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/PalariaFuelHandler.java:16:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockMod'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:4:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.world.WorldGenOres'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.Render'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:13:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.MinecraftForge'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:14:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.client.registry.RenderingRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/RegisterHelper.java:18:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/VersionChecker.java:10:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/VersionChecker.java:27:	CloseResource:	Ensure that resources like this InputStream object are closed after use
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/help/VersionChecker.java:38:	IdenticalCatchBranches:	'catch' branch identical to 'MalformedURLException' branch
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemBattleAxe.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemBattleAxe.java:157:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemBattleAxe.java:158:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemBattleAxe.java:160:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemFalkion.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemFalkion.java:150:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemFalkion.java:151:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemFalkion.java:153:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockFlamiteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:4:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockMod'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockSarliteOre'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.help.Reference'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:8:	UnnecessaryImport:	Unused import 'com.sun.org.apache.xalan.internal.xsltc.util.IntegerArray'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.client.Minecraft'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.client.resources.model.ModelResourceLocation'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemStack'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:18:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemSword'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:22:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemAxe'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:24:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemPickaxe'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:25:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemSpade'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:27:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.registry.GameRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemMod.java:30:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModAxe.java:32:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModAxe.java:33:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModAxe.java:35:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:37:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:38:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:38:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:39:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:39:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:40:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:40:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:40:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:40:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:53:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:54:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModPickaxe.java:56:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSpade.java:27:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSpade.java:33:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSpade.java:34:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSpade.java:36:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSword.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSword.java:176:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSword.java:177:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSword.java:178:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemModSword.java:180:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemScytheBlade.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemScytheBlade.java:150:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemScytheBlade.java:151:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemScytheBlade.java:153:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:33:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:38:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:38:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:39:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:39:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:40:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:40:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:40:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:41:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:41:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:54:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:55:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemShick.java:57:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemStealthDagger.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.creativetab.CreativeTabs'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemStealthDagger.java:150:	SimplifyBooleanReturns:	Avoid unnecessary if..then..else statements when returning booleans
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemStealthDagger.java:151:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/ItemStealthDagger.java:153:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/RecipesMod.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.block.BlockPlanks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/items/RecipesMod.java:13:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:3:	UnnecessaryImport:	Unused import 'java.util.Calendar'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:4:	UnnecessaryImport:	Unused import 'java.util.List'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.entity.Entity'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EnumCreatureAttribute'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.entity.IEntityLivingData'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIHurtByTarget'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:25:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.attributes.IAttributeInstance'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:28:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:34:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemStack'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.nbt.NBTTagCompound'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:37:	UnnecessaryImport:	Unused import 'net.minecraft.potion.Potion'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:38:	UnnecessaryImport:	Unused import 'net.minecraft.potion.PotionEffect'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:40:	UnnecessaryImport:	Unused import 'net.minecraft.util.DamageSource'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:41:	UnnecessaryImport:	Unused import 'net.minecraft.util.EntitySelectors'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:42:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:43:	UnnecessaryImport:	Unused import 'net.minecraft.world.DifficultyInstance'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:44:	UnnecessaryImport:	Unused import 'net.minecraft.world.EnumDifficulty'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:46:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.Side'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:47:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:52:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:54:	UnusedPrivateField:	Avoid unused private fields such as 'babySpeedBoostModifier'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:57:	UnusedPrivateField:	Avoid unused private fields such as 'conversionTime'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:60:	UnusedPrivateField:	Avoid unused private fields such as 'zombieWidth'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:62:	UnusedPrivateField:	Avoid unused private fields such as 'zombieHeight'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:150:	UselessOverridingMethod:	Overriding method merely calls super
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:197:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:231:	ImplicitSwitchFallThrough:	A switch statement does not contain a break
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAgonizingEnt.java:231:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:3:	UnnecessaryImport:	Unused import 'java.util.Calendar'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.enchantment.Enchantment'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.enchantment.EnchantmentHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.entity.Entity'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityCreature'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EnumCreatureAttribute'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:26:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntityCreeper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:32:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:37:	UnnecessaryImport:	Unused import 'net.minecraft.potion.Potion'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:38:	UnnecessaryImport:	Unused import 'net.minecraft.potion.PotionEffect'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:39:	UnnecessaryImport:	Unused import 'net.minecraft.stats.AchievementList'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:44:	UnnecessaryImport:	Unused import 'net.minecraft.world.WorldProviderHell'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:81:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:132:	UselessOverridingMethod:	Overriding method merely calls super
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:146:	FormalParameterNamingConventions:	The method parameter name 'p_70628_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:146:	FormalParameterNamingConventions:	The method parameter name 'p_70628_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:185:	UnusedLocalVariable:	Avoid unused local variables such as 'itemstack'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:192:	FormalParameterNamingConventions:	The method parameter name 'p_82196_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityAtomHe.java:192:	FormalParameterNamingConventions:	The method parameter name 'p_82196_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:4:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.enchantment.EnchantmentHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:19:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAISwimming'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:22:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.RandomPositionGenerator'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:27:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityOcelot'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:32:	UnnecessaryImport:	Unused import 'net.minecraft.util.BlockPos'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:34:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.util.Vec3'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:36:	UnnecessaryImport:	Unused import 'net.minecraft.world.EnumSkyBlock'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:43:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCowasaurus.java:91:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCreeptile.java:5:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCreeptile.java:45:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCreeptile.java:243:	FormalParameterNamingConventions:	The method parameter name 'p_70831_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityCreeptile.java:329:	MethodNamingConventions:	The instance method name 'func_175493_co' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:5:	UnnecessaryImport:	Unused import 'java.util.Set'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:10:	UnnecessaryImport:	Unused import 'com.google.common.collect.Sets'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:26:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntityEnderman'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:32:	UnnecessaryImport:	Unused import 'net.minecraft.init.Items'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.nbt.NBTTagCompound'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:41:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:48:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:53:	UnusedPrivateField:	Avoid unused private fields such as 'teleportDelay'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:54:	UnusedPrivateField:	Avoid unused private fields such as 'field_70826_g'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:70:	MethodNamingConventions:	The instance method name 'func_179948_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:70:	FormalParameterNamingConventions:	The method parameter name 'p_179948_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:74:	FormalParameterNamingConventions:	The method parameter name 'p_apply_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:94:	PrimitiveWrapperInstantiation:	Do not use `new Short(...)`, prefer `Short.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:95:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:96:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:106:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:112:	FormalParameterNamingConventions:	The method parameter name 'p_70821_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:127:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:196:	FormalParameterNamingConventions:	The method parameter name 'p_70816_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:213:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:305:	MethodNamingConventions:	The instance method name 'func_175490_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:305:	FormalParameterNamingConventions:	The method parameter name 'p_175490_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:310:	MethodNamingConventions:	The instance method name 'func_175489_ck' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:326:	SimplifyConditional:	No need to check for null before an instanceof
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:377:	FormalParameterNamingConventions:	The method parameter name 'p_70819_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:388:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:467:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEndEndermite.java:491:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:5:	UnnecessaryImport:	Unused import 'java.util.Set'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:9:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:10:	UnnecessaryImport:	Unused import 'com.google.common.collect.Sets'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityAgeable'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityCreature'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:21:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIBreakDoor'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:22:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIFollowParent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:25:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIMate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:29:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIPanic'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:31:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAITempt'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:38:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityAnimal'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:40:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityOcelot'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:48:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemSeeds'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:50:	UnnecessaryImport:	Unused import 'net.minecraft.nbt.NBTTagCompound'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:72:	UnusedPrivateField:	Avoid unused private fields such as 'teleportDelay'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:73:	UnusedPrivateField:	Avoid unused private fields such as 'field_70826_g'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:74:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:76:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:124:	PrimitiveWrapperInstantiation:	Do not use `new Short(...)`, prefer `Short.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:125:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:126:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:136:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:143:	FormalParameterNamingConventions:	The method parameter name 'p_70821_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:158:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:246:	FormalParameterNamingConventions:	The method parameter name 'p_70816_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:260:	FormalParameterNamingConventions:	The method parameter name 'p_70825_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:260:	FormalParameterNamingConventions:	The method parameter name 'p_70825_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:260:	FormalParameterNamingConventions:	The method parameter name 'p_70825_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:263:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:332:	MethodNamingConventions:	The instance method name 'func_175490_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:332:	FormalParameterNamingConventions:	The method parameter name 'p_175490_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:337:	MethodNamingConventions:	The instance method name 'func_175489_ck' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:353:	SimplifyConditional:	No need to check for null before an instanceof
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:404:	FormalParameterNamingConventions:	The method parameter name 'p_70819_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:416:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:495:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:519:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderRaptorChicken.java:562:	MethodNamingConventions:	The instance method name 'func_70823_r' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:5:	UnnecessaryImport:	Unused import 'java.util.Set'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:9:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:10:	UnnecessaryImport:	Unused import 'com.google.common.collect.Sets'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:20:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAILeapAtTarget'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:41:	UnnecessaryImport:	Unused import 'net.minecraft.nbt.NBTTagCompound'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:48:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:61:	UnusedPrivateField:	Avoid unused private fields such as 'teleportDelay'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:62:	UnusedPrivateField:	Avoid unused private fields such as 'field_70826_g'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:63:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:65:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:110:	PrimitiveWrapperInstantiation:	Do not use `new Short(...)`, prefer `Short.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:111:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:112:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:122:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:128:	FormalParameterNamingConventions:	The method parameter name 'p_70821_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:143:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:212:	FormalParameterNamingConventions:	The method parameter name 'p_70816_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:226:	FormalParameterNamingConventions:	The method parameter name 'p_70825_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:226:	FormalParameterNamingConventions:	The method parameter name 'p_70825_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:226:	FormalParameterNamingConventions:	The method parameter name 'p_70825_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:229:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:298:	MethodNamingConventions:	The instance method name 'func_175490_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:298:	FormalParameterNamingConventions:	The method parameter name 'p_175490_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:303:	MethodNamingConventions:	The instance method name 'func_175489_ck' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:319:	SimplifyConditional:	No need to check for null before an instanceof
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:370:	FormalParameterNamingConventions:	The method parameter name 'p_70819_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:382:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:461:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:485:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityEnderWalker.java:520:	MethodNamingConventions:	The instance method name 'func_70823_r' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAISwimming'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:19:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:30:	UnusedPrivateField:	Avoid unused private fields such as 'heightOffset'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:32:	UnusedPrivateField:	Avoid unused private fields such as 'heightOffsetUpdateTime'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:33:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:66:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:106:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:162:	MethodNamingConventions:	The instance method name 'func_70845_n' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:175:	FormalParameterNamingConventions:	The method parameter name 'p_70628_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:175:	FormalParameterNamingConventions:	The method parameter name 'p_70628_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:194:	FormalParameterNamingConventions:	The method parameter name 'p_70070_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaOverlord.java:199:	FormalParameterNamingConventions:	The method parameter name 'p_70013_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:4:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityAgeable'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityCreature'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIBreakDoor'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIFollowParent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIMate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:21:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIPanic'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:23:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAITempt'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:27:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityAnimal'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:29:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityOcelot'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:34:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemSeeds'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:36:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemStack'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:55:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:95:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:114:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:234:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:252:	MethodNamingConventions:	The instance method name 'func_70845_n' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:257:	MethodNamingConventions:	The instance method name 'func_70844_e' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:257:	FormalParameterNamingConventions:	The method parameter name 'p_70844_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:274:	FormalParameterNamingConventions:	The method parameter name 'p_70070_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityMagmaRaptorChicken.java:279:	FormalParameterNamingConventions:	The method parameter name 'p_70013_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:4:	UnnecessaryImport:	Unused import 'com.google.common.base.Predicate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityCreature'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIBreakDoor'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIFollowParent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIMate'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:21:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAIPanic'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:23:	UnnecessaryImport:	Unused import 'net.minecraft.entity.ai.EntityAITempt'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:27:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityAnimal'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:29:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityOcelot'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:34:	UnnecessaryImport:	Unused import 'net.minecraft.item.Item'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.item.ItemSeeds'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:53:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:104:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:133:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:182:	FormalParameterNamingConventions:	The method parameter name 'p_70628_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityRaptorChicken.java:182:	FormalParameterNamingConventions:	The method parameter name 'p_70628_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:24:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.Side'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:25:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:30:	UnusedPrivateField:	Avoid unused private fields such as 'heightOffset'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:32:	UnusedPrivateField:	Avoid unused private fields such as 'heightOffsetUpdateTime'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:33:	SingularField:	Perhaps 'moveSpeed' could be replaced by a local variable.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:67:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:109:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:177:	FormalParameterNamingConventions:	The method parameter name 'p_70628_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntitySlimeOverlord.java:177:	FormalParameterNamingConventions:	The method parameter name 'p_70628_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:5:	UnnecessaryImport:	Unused import 'java.util.Set'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:10:	UnnecessaryImport:	Unused import 'com.google.common.collect.Sets'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:26:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntityEnderman'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:32:	UnnecessaryImport:	Unused import 'net.minecraft.init.Items'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:35:	UnnecessaryImport:	Unused import 'net.minecraft.nbt.NBTTagCompound'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:41:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:48:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:53:	UnusedPrivateField:	Avoid unused private fields such as 'teleportDelay'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:54:	UnusedPrivateField:	Avoid unused private fields such as 'field_70826_g'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:70:	MethodNamingConventions:	The instance method name 'func_179948_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:70:	FormalParameterNamingConventions:	The method parameter name 'p_179948_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:74:	FormalParameterNamingConventions:	The method parameter name 'p_apply_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:94:	PrimitiveWrapperInstantiation:	Do not use `new Short(...)`, prefer `Short.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:95:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:96:	PrimitiveWrapperInstantiation:	Do not use `new Byte(...)`, prefer `Byte.valueOf(...)`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:106:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'dmg'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:112:	FormalParameterNamingConventions:	The method parameter name 'p_70821_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:127:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:196:	FormalParameterNamingConventions:	The method parameter name 'p_70816_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:210:	FormalParameterNamingConventions:	The method parameter name 'p_70825_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:213:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:305:	MethodNamingConventions:	The instance method name 'func_175490_a' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:305:	FormalParameterNamingConventions:	The method parameter name 'p_175490_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:310:	MethodNamingConventions:	The instance method name 'func_175489_ck' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:326:	SimplifyConditional:	No need to check for null before an instanceof
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:377:	FormalParameterNamingConventions:	The method parameter name 'p_70819_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:388:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:467:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/EntityStoneEndermite.java:491:	AssignmentInOperand:	Avoid assignments in operands
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderCowasaurus'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderCreeptile'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderEndEndermite'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:8:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderEnderRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:9:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderEnderWalker'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:10:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderMagmaRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:11:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:12:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderStoneEndermite'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:14:	UnnecessaryImport:	Unused import 'com.jcraft.jorbis.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:16:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.Render'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityList'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:19:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:21:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.client.registry.RenderingRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/MobRegistry.java:25:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAICreeptileSwell.java:1:	PackageCase:	Package name contains upper case characters
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:1:	PackageCase:	Package name contains upper case characters
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:16:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:18:	FormalParameterNamingConventions:	The method parameter name 'p_i1630_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:39:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:39:	SimplifiedTernary:	Ternary operators that can be simplified with || or &&
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/entityAI/EntityAIModLeapAtTarget.java:39:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:4:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.EntityCowasaurus'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:152:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:153:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:154:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:156:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAgonizingEnt.java:157:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAtomHe.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAtomHe.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAtomHe.java:63:	FormalParameterNamingConventions:	The method parameter name 'p_78086_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelAtomHe.java:63:	FormalParameterNamingConventions:	The method parameter name 'p_78086_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:3:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.boss.EntityDragon'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityOcelot'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:581:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:589:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:650:	FormalParameterNamingConventions:	The method parameter name 'p_78086_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCowasaurus.java:650:	FormalParameterNamingConventions:	The method parameter name 'p_78086_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelCreeptile.java:31:	UnusedFormalParameter:	Avoid unused constructor parameters such as 'par1'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelOverlord.java:3:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.EntityCowasaurus'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelOverlord.java:168:	FormalParameterNamingConventions:	The method parameter name 'p_78086_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelOverlord.java:168:	FormalParameterNamingConventions:	The method parameter name 'p_78086_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/models/ModelRaptorChicken.java:3:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:13:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:15:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAgonizingEnt.java:25:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.init.Items'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:14:	UnnecessaryImport:	Unused import 'net.minecraftforge.client.model.MultiModel'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:15:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:19:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:23:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.models.ModelCowasaurus'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:25:	UnnecessaryImport:	Unused import 'akka.routing.RandomPool'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderAtomHe.java:30:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:13:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:15:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCowasaurus.java:23:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntityCreeper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:14:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:16:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:25:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:83:	FormalParameterNamingConventions:	The method parameter name 'p_77041_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:83:	FormalParameterNamingConventions:	The method parameter name 'p_77041_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:91:	FormalParameterNamingConventions:	The method parameter name 'p_77030_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:91:	FormalParameterNamingConventions:	The method parameter name 'p_77030_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderCreeptile.java:91:	FormalParameterNamingConventions:	The method parameter name 'p_77030_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:4:	UnnecessaryImport:	Duplicate import 'com.coolgatty.palaria.mobs.EntityEnderRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:49:	FormalParameterNamingConventions:	The method parameter name 'p_77044_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderRaptorChicken.java:49:	FormalParameterNamingConventions:	The method parameter name 'p_77044_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.models.ModelRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderEnderWalker.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelSlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderSlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.layers.LayerSlimeGel'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntitySlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:17:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:19:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaOverlord.java:21:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:4:	UnnecessaryImport:	Duplicate import 'com.coolgatty.palaria.mobs.EntityMagmaRaptorChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBlaze'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntityBlaze'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:51:	FormalParameterNamingConventions:	The method parameter name 'p_77044_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderMagmaRaptorChicken.java:51:	FormalParameterNamingConventions:	The method parameter name 'p_77044_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityChicken'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:49:	FormalParameterNamingConventions:	The method parameter name 'p_77044_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRaptorChicken.java:49:	FormalParameterNamingConventions:	The method parameter name 'p_77044_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderRegistry.java:20:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:4:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.model.ModelSlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.RenderSlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.entity.layers.LayerSlimeGel'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLiving'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.entity.EntityLivingBase'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:14:	UnnecessaryImport:	Unused import 'net.minecraft.entity.monster.EntitySlime'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:15:	UnnecessaryImport:	Unused import 'net.minecraft.util.MathHelper'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:17:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.relauncher.SideOnly'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:19:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/RenderSlimeOverlord.java:21:	UnnecessaryImport:	Unused import 'org.lwjgl.opengl.GL11'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:21:	UnusedPrivateField:	Avoid unused private fields such as '__OBFID'.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:23:	FormalParameterNamingConventions:	The method parameter name 'p_i46121_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_4_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_6_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_7_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:28:	FormalParameterNamingConventions:	The method parameter name 'p_177169_8_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_2_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_3_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_4_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_5_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_6_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_7_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/mobs/render/layer/LayerCreeptileCharge.java:59:	FormalParameterNamingConventions:	The method parameter name 'p_177141_8_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:3:	UnnecessaryImport:	Unused import 'net.minecraft.client.Minecraft'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:5:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.GlStateManager'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:6:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.Tessellator'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.client.renderer.WorldRenderer'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.entity.Entity'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/EntityNeliumFlameFX.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.util.ResourceLocation'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/Particles.java:7:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/particles/Particles.java:32:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:7:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.EntityCreeptile'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:8:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.mobs.render.RenderCreeptile'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:11:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.client.registry.RenderingRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:12:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:13:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLPostInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/ClientProxy.java:14:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLPreInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/CommonProxy.java:3:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/CommonProxy.java:4:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLPostInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/CommonProxy.java:5:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.event.FMLPreInitializationEvent'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/CommonProxy.java:10:	UncommentedEmptyMethodBody:	Document empty method body
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/proxy/CommonProxy.java:15:	UncommentedEmptyMethodBody:	Document empty method body
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.block.BlockOldLog'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:17:	UnnecessaryImport:	Unused import 'net.minecraft.entity.passive.EntityHorse'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:26:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.BiomeDictionary'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:27:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.BiomeDictionary.Type'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:28:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.registry.GameRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:34:	PrimitiveWrapperInstantiation:	Do not use `Boolean.valueOf(false)`, prefer `Boolean.FALSE`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:48:	FormalParameterNamingConventions:	The method parameter name 'p_180627_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:59:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenBloodForest.java:67:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:5:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.Palaria'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:6:	UnnecessaryImport:	Unused import 'com.coolgatty.palaria.blocks.BlockMod'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:8:	UnnecessaryImport:	Unused import 'net.minecraft.block.Block'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:22:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.BiomeDictionary'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:23:	UnnecessaryImport:	Unused import 'net.minecraftforge.common.BiomeDictionary.Type'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:24:	UnnecessaryImport:	Unused import 'net.minecraftforge.fml.common.registry.GameRegistry'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:30:	PrimitiveWrapperInstantiation:	Do not use `Boolean.valueOf(false)`, prefer `Boolean.FALSE`
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:44:	FormalParameterNamingConventions:	The method parameter name 'p_180627_1_' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:55:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeGenSkyForest.java:63:	ControlStatementBraces:	This statement should have braces
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:3:	UnnecessaryImport:	Unused import 'java.util.Random'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:7:	UnnecessaryImport:	Unused import 'net.minecraft.init.Blocks'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:9:	UnnecessaryImport:	Unused import 'net.minecraft.world.biome.BiomeGenSavanna'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:10:	UnnecessaryImport:	Unused import 'net.minecraft.world.gen.NoiseGeneratorPerlin'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:11:	UnnecessaryImport:	Unused import 'net.minecraft.world.gen.feature.WorldGenDoublePlant'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:12:	UnnecessaryImport:	Unused import 'net.minecraft.world.gen.feature.WorldGenTallGrass'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:13:	UnnecessaryImport:	Unused import 'net.minecraft.world.gen.feature.WorldGenerator'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:21:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:37:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/BiomeRegistry.java:38:	UselessParentheses:	Useless parentheses.
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:22:	SwitchStmtsShouldHaveDefault:	Switch statements should be exhaustive, add a default case (or missing enum branches)
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:42:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:43:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:44:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:51:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:52:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:53:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:60:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:61:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:62:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:69:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:70:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:71:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:78:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:79:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:80:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:87:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:88:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:89:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:99:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:100:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:101:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:111:	LocalVariableNamingConventions:	The local variable name 'Xcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:112:	LocalVariableNamingConventions:	The local variable name 'Zcoord' doesn't match '[a-z][a-zA-Z0-9]*'
+/home/coolgatty/Desktop/Testing/PalariaMod/src/main/java/com/coolgatty/palaria/world/WorldGenOres.java:113:	LocalVariableNamingConventions:	The local variable name 'Ycoord' doesn't match '[a-z][a-zA-Z0-9]*'
